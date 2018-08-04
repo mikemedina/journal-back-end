@@ -1,5 +1,7 @@
 .gradle
+.idea/dataSources.xml
 .idea/libraries
+.idea/modules
 .idea/vcs.xml
 .idea/workspace.xml
 build
