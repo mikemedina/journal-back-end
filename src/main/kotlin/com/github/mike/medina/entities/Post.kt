@@ -1,4 +1,4 @@
-package main.kotlin.com.github.mike.medina.entities
+package com.github.mike.medina.entities
 
 import javax.persistence.*
 
