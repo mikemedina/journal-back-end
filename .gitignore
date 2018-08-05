@@ -1,4 +1,6 @@
+*.swp
 .gradle
+.idea/dataSources
 .idea/dataSources.xml
 .idea/libraries
 .idea/modules
@@ -7,4 +9,4 @@
 build
 gradle
 out
-*.swp
+
